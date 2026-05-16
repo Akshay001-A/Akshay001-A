@@ -1,52 +1,51 @@
-# Hi 👋, I'm Akshay
-
-## 🚀 Full Stack Developer | AI & ML Enthusiast
-
-### 👨‍💻 About Me
-- 🔭 Working on Full Stack Projects
-- 🌱 Learning AI, ML & TensorFlow
-- 💡 Interested in Web Development and Deep Learning
-- ⚡ Fun fact: I love building unique projects
+<h1 align="center">Hi 👋, I'm Akshay</h1>
+<h3 align="center">Full Stack Developer | AI & ML Enthusiast</h3>
 
 ---
 
-## 🚀 Skills
+## 🚀 About Me
+- 🔭 Working on Full Stack Projects
+- 🌱 Learning AI, ML & TensorFlow
+- 💡 Interested in Web Development & Deep Learning
+- ⚡ Love building unique projects
 
-### Languages
-- Java
-- Python
-- JavaScript
-- HTML
-- CSS
+---
 
-### Database
-- MySQL
-
-### Frameworks & Tools
-- Flutter
-- JDBC
-- Git & GitHub
+## 🛠 Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,flutter,git,github" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay001-A&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshay001-A&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshay001-A&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akshay001-A&theme=tokyonight" />
+</p>
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay001-A&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay001-A&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/Akshay001-A
+<p>
+  <a href="https://github.com/Akshay001-A">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
