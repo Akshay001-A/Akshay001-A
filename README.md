@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Akshay
 
-<!--
-**Akshay001-A/Akshay001-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer | AI & ML Enthusiast
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 Working on Full Stack Projects
+- 🌱 Learning AI, ML & TensorFlow
+- 💡 Interested in Web Development and Deep Learning
+- ⚡ Fun fact: I love building unique projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+### Languages
+- Java
+- Python
+- JavaScript
+- HTML
+- CSS
+
+### Database
+- MySQL
+
+### Frameworks & Tools
+- Flutter
+- JDBC
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay001-A&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshay001-A&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay001-A&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Akshay001-A
