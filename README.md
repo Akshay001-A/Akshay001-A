@@ -17,11 +17,18 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshay001-A&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay001-A&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay001-A&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
 ---
@@ -34,13 +41,6 @@
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay001-A&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
