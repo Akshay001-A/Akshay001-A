@@ -50,7 +50,9 @@
 </td>
 </tr>
 </table>
+
 ---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
