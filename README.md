@@ -24,28 +24,24 @@
 ---
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
 
-### 🚀 Development
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,react,nextjs,html,css,tailwind,nodejs,express,flask" />
+### 🌐 Full Stack Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express,flask" />
 
-</td>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-<td width="50%">
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-### ⚙️ Data, AI & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,tensorflow,pytorch,git,github,docker,vscode,postman,jenkins" />
-
-</td>
-</tr>
-</table>
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,jenkins" />
 
 ---
----
 
-## 📊 GitHub Statistics
+## 📈 GitHub Analytics & Activity
 
 <div align="center">
 
