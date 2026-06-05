@@ -44,29 +44,15 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,jenkins" />
 
 ---
+## 📊 GitHub Statistics
 
-## 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akshay001-A&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akshay001-A&show_icons=true&theme=tokyonight&hide_border=true" />
 
----
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay001-A&theme=tokyonight&hide_border=true" />
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay001-A&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay001-A&theme=tokyo-night&hide_border=true"/>
-</p>
+</div>
 
 ---
 
