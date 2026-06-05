@@ -8,10 +8,6 @@
 🚀 Full Stack Developer • 🤖 AI & Machine Learning Developer • 💻 Software Engineer
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshay001-A&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
 </div>
 
 ---
@@ -28,11 +24,12 @@
 ---
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="50%">
+
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
-
-### 🌐 Full Stack Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express,flask" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -40,9 +37,19 @@
 ### 🤖 AI / ML
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
+</td>
+
+<td width="50%">
+
+### 🌐 Full Stack Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express,flask" />
+
 ### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,jenkins" />
 
+</td>
+</tr>
+</table>
 ---
 ## 📊 GitHub Statistics
 
