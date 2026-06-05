@@ -86,6 +86,7 @@ Designed and implemented a Java Swing desktop application with MySQL integration
 ---
 ## 📊 GitHub Analytics
 
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshay001-A&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay001-A&layout=compact&theme=tokyonight&hide_border=true"/>
