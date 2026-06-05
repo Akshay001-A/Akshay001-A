@@ -28,60 +28,20 @@
 ---
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
 
-| Java | Python | JavaScript | TypeScript | C |
-|------|------|------|------|------|
-| <img src="https://skillicons.dev/icons?i=java" width="48"> | <img src="https://skillicons.dev/icons?i=python" width="48"> | <img src="https://skillicons.dev/icons?i=javascript" width="48"> | <img src="https://skillicons.dev/icons?i=typescript" width="48"> | <img src="https://skillicons.dev/icons?i=c" width="48"> |
+### 🌐 Full Stack Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express,flask" />
 
-### Frontend
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-| React | Next.js | HTML5 | CSS3 | Tailwind |
-|------|------|------|------|------|
-| <img src="https://skillicons.dev/icons?i=react" width="48"> | <img src="https://skillicons.dev/icons?i=nextjs" width="48"> | <img src="https://skillicons.dev/icons?i=html" width="48"> | <img src="https://skillicons.dev/icons?i=css" width="48"> | <img src="https://skillicons.dev/icons?i=tailwind" width="48"> |
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-### Backend
-
-| Node.js | Express.js | Flask |
-|------|------|------|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="48"> | <img src="https://skillicons.dev/icons?i=express" width="48"> | <img src="https://skillicons.dev/icons?i=flask" width="48"> |
-
-### Databases
-
-| MongoDB | MySQL |
-|------|------|
-| <img src="https://skillicons.dev/icons?i=mongodb" width="48"> | <img src="https://skillicons.dev/icons?i=mysql" width="48"> |
-
-### AI / Machine Learning
-
-| TensorFlow | PyTorch |
-|------|------|
-| <img src="https://skillicons.dev/icons?i=tensorflow" width="48"> | <img src="https://skillicons.dev/icons?i=pytorch" width="48"> |
-
-### Tools
-
-| Git | GitHub | Docker | VS Code | Postman |
-|------|------|------|------|------|
-| <img src="https://skillicons.dev/icons?i=git" width="48"> | <img src="https://skillicons.dev/icons?i=github" width="48"> | <img src="https://skillicons.dev/icons?i=docker" width="48"> | <img src="https://skillicons.dev/icons?i=vscode" width="48"> | <img src="https://skillicons.dev/icons?i=postman" width="48"> |
-
----
-
-## 🚀 Featured Projects
-
-### 👟 Shoe Mart
-Built an AI-powered MERN E-Commerce platform featuring Gemini AI integration, OpenCLIP visual search, real-time product recommendations, and modern shopping workflows.
-
-### 🎧 Deepfake Audio Detection
-Developed a Machine Learning-based audio forensics system capable of detecting synthetic and AI-generated speech using advanced audio feature extraction techniques.
-
-### 🌿 Potato Plant Disease Recognition
-Created a Deep Learning-based crop disease detection platform using TensorFlow and Computer Vision for accurate plant health diagnosis and treatment guidance.
-
-### 🧠 EchoBrain-X
-Engineering an intelligent AI assistant platform with conversational AI, productivity tools, document analysis, and scalable architecture for future AI enhancements.
-
-### 🏋️ Gym Management System
-Designed and implemented a Java Swing desktop application with MySQL integration for efficient gym administration, membership management, and payment processing.
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,jenkins" />
 
 ---
 
