@@ -99,6 +99,8 @@ Designed and implemented a Java Swing desktop application with MySQL integration
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay001-A&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Akshay001-A&theme=tokyonight" /> </p>
+
 ---
 
 ## 📈 Activity Graph
